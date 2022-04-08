@@ -8,3 +8,4 @@
 7. 종료-학생 성정 프로그램이 종료됨
 
 * 자바(eplipse)와 DB(MySQL)을 연동하여 사용가능함
+![image](https://user-images.githubusercontent.com/100817610/162388548-cdce90f0-18bc-4eaf-ae21-e1440c14af86.png)
